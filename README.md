@@ -1,1 +1,3 @@
-# LostArkFishingScript
+# Lost-Ark Fishing Script
+
+### COMING SOON
